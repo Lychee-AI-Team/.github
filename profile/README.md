@@ -1,34 +1,51 @@
-## Hi there 👋  
-We are **Lychee-AI-Team** 🍋  
-一个诞生于 **AI 原生时代（AI-native era）** 的团队
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Lychee-AI-Team/.github/main/profile/assets/hero.png" alt="Lychee AI Team" />
+</p>
 
-**Building Super Individuals in the Age of AI**  
-在 AI 时代，一起成长为更强的个体
+<h1 align="center">🍋 Lychee-AI-Team</h1>
 
----
+<p align="center">
+  <b>Building Super Individuals in the Age of AI</b><br/>
+  在 AI 时代，一起成长为更强的个体
+</p>
 
-### 🙋‍♀️ What is Lychee-AI-Team?
+<p align="center">
+  <img src="https://img.shields.io/badge/AI--Native-Team-2f855a" />
+  <img src="https://img.shields.io/badge/People>Product-3182ce" />
+  <img src="https://img.shields.io/badge/Super-Individuals-e53e3e" />
+  <img src="https://img.shields.io/badge/Independent-Judgment-dd6b20" />
+  <img src="https://img.shields.io/badge/Long--Term-Thinking-805ad5" />
+</p>
 
-Lychee-AI-Team 是一个 **AI 原生团队（AI-native team）**。
+<p align="center">
+  <img src="https://img.shields.io/badge/Growth>Busyness-38a169" />
+  <img src="https://img.shields.io/badge/Clarity>Control-0bc5ea" />
+  <img src="https://img.shields.io/badge/Records>Performance-ed64a6" />
+  <img src="https://img.shields.io/badge/AI-as-Leverage-4c51bf" />
+  <img src="https://img.shields.io/badge/Compounding-Learning-f56565" />
+</p>
 
-我们聚在一起，不只是为了完成项目，  
-而是为了探索一种更适合这个时代的协作方式：
 
-- AI 是 **默认能力**，而不是额外工具  
-- 协作服务于 **个体成长**，而不是消耗个体  
-- 思考与记录，会沉淀为 **长期可复用的能力资产**  
-- 每个人都在建立 **独立判断力与个人杠杆**
+## 🌱 Why we exist｜我们为什么在一起
+
+我们不是因为“要做一个项目”才聚在一起。
+
+Lychee-AI-Team 诞生于 **AI 成为基础能力之后**，  
+我们更关心的是：
+
+- 人是否在持续变强  
+- 判断力是否在被放大  
+- 学习与思考是否留下了复利  
 
 项目会变化，  
-**人的成长，才是真正具有复利的事情。**
+**个体的成长才是长期资产**。
 
----
 
-### 🌱 What “AI-native” means to us
+## 🤖 What “AI-native” means to us
 
-对我们来说，AI-native 并不意味着“更多使用 AI 工具”。
+AI-native ≠ 多用几个 AI 工具。
 
-它意味着：
+对我们来说，它意味着：
 
 - AI 已经融入思考与工作方式本身  
 - 人不再被流程驱动，而是被判断力驱动  
@@ -36,53 +53,60 @@ Lychee-AI-Team 是一个 **AI 原生团队（AI-native team）**。
 - AI 用来放大学习速度、判断质量与创造密度  
 
 AI 不是替代人，  
-而是 **让人变得更强**。
+而是 **让人变得更强的杠杆**。
 
----
 
-### 🌈 How we work together
+## 🎯 What we believe｜我们的核心共识
 
-我们不依赖重管理或层级结构。
+- **People > Products**  
+- **Growth > Busyness**  
+- **Clarity > Control**  
+- **Records > Performance**
 
-在 Lychee-AI-Team，我们更倾向于：
+我们不追求看起来很专业，  
+我们更在意 **是否在长期变强**。
 
-- 把重要的事情 **写下来**  
-- 把 Blocked 当作 **信息，而不是问题**  
-- 用状态帮助判断，而不是制造压力  
-- 把记录当作送给 **未来自己的礼物**
 
-我们相信：  
-**清晰胜过控制，信任来自透明。**
+## 🌈 How we work together
 
----
+在 Lychee-AI-Team：
 
-### 👩‍💻 Useful resources
+- 重要的事情，会被 **写下来**  
+- Blocked 是 **信息，而不是问题**  
+- 状态存在，是为了帮助判断，而不是施压  
+- 记录，首先是送给 **未来自己的礼物**
+
+我们相信：
+
+> 清晰胜过控制  
+> 信任来自透明
+
+
+## 🧭 Team OS & Resources
 
 - **Team OS**  
-  我们的协作与推进方式，记录在 Team OS 中  
-  它不是制度说明书，而是事情真实如何向前的痕迹
+  我们真实的协作方式与事情流动逻辑  
+  不是制度说明，而是实践沉淀
 
 - **Issues & Projects**  
-  事情、想法、卡点与成果的主要留存空间
+  事情、思考、卡点与成果的主要留存空间
 
 - **Documents & Notes**  
-  属于个人的学习与思考资产，会长期留在这里
+  属于个人的学习与思考资产  
+  会长期保留、持续复用
 
 工具和流程存在的意义，  
-是让人更轻松，而不是更疲惫。
+是让人 **更轻松，而不是更疲惫**。
 
----
 
-### 🍿 Fun facts
+## 🍿 Fun facts
 
-- 我们更关心 **是否在变强**，而不是看起来多忙  
-- “Done” 不只是完成，而是 **别人能理解**  
+- 我们更关心是否在变强，而不是看起来多忙  
+- “Done” 意味着：别人能理解、能复用  
 - 我们相信记录会产生复利  
-- 咖啡 ☕ 消耗速度可能略高于平均水平
+- 咖啡 ☕ 的消耗速度略高于平均水平
 
----
-
-### 🧙 Our fallback principle
+## 🍃 Our fallback principle｜兜底共识
 
 当规则、流程与现实发生冲突时，我们会优先问：
 
@@ -92,7 +116,7 @@ AI 不是替代人，
 如果答案是否定的，  
 那规则本身就值得被重新思考。
 
----
 
-我们在这里一起成长，  
-成为 **AI 原生时代真正具备杠杆的个体**。 🍋
+<p align="center">
+  🌿 We grow together, into AI-native individuals with real leverage.
+</p>
