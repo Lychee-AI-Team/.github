@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/Lychee-AI-Team/.github/main/profile/assets/hero.png" alt="Lychee AI Team" />
 </p>
 
-<h1 align="center">🍋 Lychee-AI-Team</h1>
+<h1 align="center">🧆 Lychee-AI-Team</h1>
 
 <p align="center">
   <b>Building Super Individuals in the Age of AI</b><br/>
