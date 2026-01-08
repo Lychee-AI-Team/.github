@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/Growth>Busyness-38a169" />
   <img src="https://img.shields.io/badge/Clarity>Control-0bc5ea" />
   <img src="https://img.shields.io/badge/Records>Performance-ed64a6" />
-  <img src="https://img.shields.io/badge/AI-as-Leverage-4c51bf" />
+  <img src="https://img.shields.io/badge/AI-as%20Leverage-4c51bf" />
   <img src="https://img.shields.io/badge/Compounding-Learning-f56565" />
 </p>
 
